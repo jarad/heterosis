@@ -1,0 +1,11 @@
+Package: heterosis
+Title: Empirical Bayes heterosis analysis of RNAseq data set
+Version: 0.1
+Authors@R: "Jarad Niemi <niemi@iastate.edu> [aut, cre]"
+Description: Performs an empirical Bayes heterosis analysis of RNAseq data set
+Depends: R (>= 3.1.1),
+  rstan
+License: GPL (>= 2)
+LazyData: true
+Suggests: 
+  edgeR
