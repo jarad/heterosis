@@ -4,7 +4,7 @@
 #' and both crosses (BM & MB). 
 #'  
 #' \itemize{
-#'   \item gene_id. factor. the gene identification
+#'   \item feature. factor. the feature (gene) id
 #'   \item block. factor. the block that the observation came from
 #'   \item chip. factor. the RNAseq chip that was used 
 #'   \item genotype. factor. the genotype of the sample
